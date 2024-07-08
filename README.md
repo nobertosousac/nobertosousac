@@ -27,8 +27,8 @@ Olá! Meu nome é Noberto Sousa, tenho 22 anos e sou estudante de Ciência da Co
 
 ### Soft Skills:
 
-Comunicativo
-Trabalho em equipe
-Proatividade
-Autodidata
+- Comunicativo
+- Trabalho em equipe
+- Proatividade
+- Autodidata
 <br>
