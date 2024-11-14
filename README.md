@@ -21,9 +21,6 @@ Olá! Meu nome é Noberto Sousa, tenho 22 anos e sou estudante de Ciência da Co
 - Machine Learning (Modelos supervisionados, não supervisionados)
 - Estatística descritiva
 - Git & Version Control
-<br>
-
-<br>
 
 ### Soft Skills:
 
