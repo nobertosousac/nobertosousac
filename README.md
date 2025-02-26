@@ -12,7 +12,7 @@
 
 ## Sobre mim:
 
-Olá! Meu nome é Noberto Sousa, tenho 22 anos e sou estudante de Ciência da Computação na Universidade Estadual da Paraíba. Apesar de ainda não ter conquistado minha primeira vaga na área de dados, busco constantemente estudar e realizar o desenvolvimento de projetos com o objetivo de imergir nessa área.<br>
+Olá! Meu nome é Noberto Sousa, sou estudante de Ciência da Computação na Universidade Estadual da Paraíba. Apesar de ainda não ter conquistado minha primeira vaga na área de dados, busco constantemente estudar e realizar o desenvolvimento de projetos com o objetivo de imergir nessa área.<br>
 
 ### Hard Skills:
 
