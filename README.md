@@ -25,4 +25,5 @@ Com toda a experiência que fui adquirindo ao decorrer do tempo e sempre aprofun
 ## Contato
 
 📧 nobertosc18@gmail.com
+
 🔗 [LinkedIn](https://www.linkedin.com/in/nobertosousa)
