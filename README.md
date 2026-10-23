@@ -2,11 +2,11 @@
 
 ## Sobre mim
 
-Atuo como profissional na área de Dados. Ao longo da minha experiência, participei de projetos envolvendo coleta, tratamento, análise e modelagem de dados, além da criação de dashboards e relatórios que tornam as informações mais acessíveis e facilitam a interpretação dos resultados. Também atuo na definição de métricas e KPIs, buscando entregar análises claras que auxiliem diferentes áreas da empresa.
+Minha trajetória profissional começou no suporte técnico a sistemas de gestão comercial e emissão fiscal, que foi onde consegui desenvolver a capacidade de investigar problemas, entender a necessidade dos clientes e propor as melhores soluções para as diversas situações.
 
-No dia a dia, trabalho principalmente com Python, SQL e Power BI, realizando desde a extração e transformação dos dados até a construção de dashboards interativos. Tenho experiência com Power Query, DAX, modelagem de dados e análise exploratória (EDA), sempre aplicando boas práticas para garantir a qualidade e a confiabilidade das informações.
+Parte das minhas demandas já envolviam tarefas relacionadas a dados, mesmo que não fosse o foco principal da minha função. Utilizava o SQL no meu dia a dia para manipular banco de dados e corrigir inconsistências, analisava dados dos clientes que estavam armazenadaos em planilhas do Excel para entender os feedbacks em relação ao sistema e identificar os pontos que precisavam de um maior cuidado e melhorias.
 
-Acredito que uma boa análise vai além da criação de gráficos: ela precisa responder perguntas, identificar oportunidades e contribuir para decisões mais seguras. Por isso, busco constantemente aprimorar meus conhecimentos e desenvolver soluções que unam qualidade técnica e visão de negócio.
+Com toda a experiência que fui adquirindo ao decorrer do tempo e sempre aprofundando meus conhecimentos técnicos, desenvolvendo minha comunicação e compreensão das necessidades do negócio, consegui atuar como analista de dados, aplicando tudo que aprendi e vivenciando os desafios da área até hoje.
 
 ## Experiência atual
 
@@ -16,11 +16,17 @@ Atuo em uma empresa que desenvolve um ERP de gestão comercial para o varejo, co
 
 ## Competências técnicas
 
-- **Python:** Pandas, NumPy, Matplotlib, Seaborn
-- **SQL:** consultas avançadas, modelagem de dados e otimização de consultas
-- **Business Intelligence:** Power BI, Power Query, DAX, dashboards, KPIs e visualização de dados
-- **Banco de Dados:** PostgreSQL e SQL Server
-- **Git & GitHub:** versionamento de código e repositórios
+◦ **Python** - Pandas, Numpy, Matplotlib, Seaborn, Plotly
+
+◦ **SQL** - CRUD, Consultas, JOINs, Subquery, Windows Function, CTEs
+
+◦ **Excel** - Tabelas Dinâmicas, Funções, Gráficos
+
+◦ **Power BI** - Power Query, Medidas DAX, Dashboards, Modelagem de Dados
+
+◦ **Estatística** - Estatística Descritiva, Medidas de Tendência Central e Dispersão, Teste A/B
+
+◦ **Git, GitHub e Versionamento de Código**
 
 ## Contato
 
