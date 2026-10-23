@@ -8,12 +8,6 @@ Parte das minhas demandas já envolviam tarefas relacionadas a dados, mesmo que 
 
 Com toda a experiência que fui adquirindo ao decorrer do tempo e sempre aprofundando meus conhecimentos técnicos, desenvolvendo minha comunicação e compreensão das necessidades do negócio, consegui atuar como analista de dados, aplicando tudo que aprendi e vivenciando os desafios da área até hoje.
 
-## Experiência atual
-
-**Analista de Dados** — CGS Digital, Campina Grande/PB (desde março de 2023)
-
-Atuo em uma empresa que desenvolve um ERP de gestão comercial para o varejo, com foco em análise de portfólio de clientes, identificação de churn e apoio à definição de estratégias de retenção junto aos times de Customer Success e Comercial.
-
 ## Competências técnicas
 
 ◦ **Python** - Pandas, Numpy, Matplotlib, Seaborn, Plotly
